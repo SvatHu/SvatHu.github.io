@@ -28,14 +28,7 @@ button {
      4px 4px 5px 0px rgba(0,0,0,.1);
     outline: none;
 }
-.filter2{
-    position: absolute;
-    top: 50px;
-    left: 0px;
-    width: 150px;
-    height: 400px;
-    background-color: black;
-}
+
 .custom-btn {
     background: rgb(0,172,238);
   background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
@@ -105,11 +98,7 @@ button {
 .custom-btn span:hover:after {
     width: 100%;
 }
-.filter{
-    width: 35px;
-    height: 35px;
-    transform: rotateX(30);
-}
+
 .main-screen{
     perspective: 400px;
 }
@@ -219,8 +208,4 @@ button {
     background-image: url(src/Лого2/payday2.png);
     background-size: cover;
     
-}
-.filter-btn{
-    margin-right: 200px;
-    margin-top: 20px;
 }
